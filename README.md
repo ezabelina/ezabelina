@@ -1,2 +1,2 @@
 # noobs
-some Yandex Praktikum data analyst projects
+some Yandex Practicum data analyst projects
